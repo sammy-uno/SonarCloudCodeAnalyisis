@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=sammy-uno
-              -Dsonar.projectKey=SonarCloudCodeAnalyisis
+              -Dsonar.projectKey=sammy-uno
               -Dsonar.python.coverage.reportPaths=coverage.xml
